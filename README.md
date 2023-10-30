@@ -21,9 +21,8 @@
 <p>Feel free to connect with me and let's collaborate on exciting projects or discuss tech trends!</p>
 
 <ul>
-  <li>LinkedIn: <a href="[Your LinkedIn Profile Link]">Your LinkedIn Profile</a></li>
-  <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li>Portfolio: <a href="[Your Portfolio Website Link]">Your Portfolio Website</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/hamza-khan-3a2b0024a/">LinkedIn Profile</a></li>
+  <li>Email: <a href="mailto:hamza81khan81@gmail.com">hamza81khan81@gmail.com</a></li>
 </ul>
 
 <p>Let's code, innovate, and make an impact together! 🚀</p>
