@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>🎓 Software Engineering Student at <a href="[Your University Link]">Your University</a></li>
+  <li>🎓 Data Science Engineering Student at Saraswati College of engineering </li>
   <li>🌐 Based in Mumbai, India</li>
   <li>💻 Proficient in Python and Django Framework</li>
   <li>🌐 Skilled in creating websites with backend development and database integration</li>
