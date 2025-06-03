@@ -190,11 +190,6 @@ My technical stack includes frameworks like Django, Spring Boot, Kotlin, React, 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 
-
-
-
-<h3 align="center">Full Stack Development</h3>
-
 <div align="center">
 <table style="background: rgba(30, 144, 255, 0.15); backdrop-filter: blur(10px); color: white; border: none; border-radius: 15px; overflow: hidden; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
   <thead>
