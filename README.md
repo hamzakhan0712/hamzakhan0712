@@ -69,16 +69,17 @@ My technical stack includes frameworks like Django, Spring Boot, Kotlin, React, 
       <a href="https://www.key2yourhome.co.in" style="color: #58a6ff; text-decoration: none;">View Live →</a>
     </td>
 
-  <td align="center" style="background: rgba(30, 144, 255, 0.1); backdrop-filter: blur(8px); border-radius: 15px; padding: 20px; width: 300px; height: 250px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-      <img src="https://portfolio-one-black-17.vercel.app/initcore.png" width="250" alt="InitCore" />
-      <br />
-      <strong style="font-size: 1.1em;">InitCore</strong><br />
-      <span style="color: #aaa;">Digital solutions company website</span><br />
-      <div style="margin-top: 10px;">
-        <img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="20" alt="tech stack" />
-      </div>
-      <a href="https://www.initcore.in" style="color: #58a6ff; text-decoration: none;">View Live →</a>
-    </td>
+<td align="center" style="background: rgba(30, 144, 255, 0.1); backdrop-filter: blur(8px); border-radius: 15px; padding: 20px; width: 300px; height: 250px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+  <img src="https://portfolio-one-black-17.vercel.app/sustech.jpg" width="250" alt="ICST 2023" style="border-radius: 8px; object-fit: cover; height: 140px;"/>
+  <br />
+  <strong style="font-size: 1.1em;">ICST 2023</strong><br />
+  <span style="color: #aaa;">International Conference on Sustainable Technologies</span><br />
+  <div style="margin-top: 10px;">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="20" alt="tech stack" />
+    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/opengraph-image.png" height="20" alt="shadcn" style="border-radius: 4px; margin-left: 5px;"/>
+  </div>
+  <a href="https://portfolio-one-black-17.vercel.app/sustech.jpg" style="color: #58a6ff; text-decoration: none;">View Live →</a>
+</td>
 
   </tr>
 
