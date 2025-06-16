@@ -20,7 +20,7 @@
   <p>Discover my work and connect on these platforms!</p>
 
  | Hamza Khan | Instagram | LinkedIn |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [![Hamza Khan](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Hamza+Khan&size=square)](https://portfolio-one-black-17.vercel.app/resume.pdf) | [![hamzakhan4104](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fhamzakhan4104%2F&subtitle=@hamzakhan4104&size=square)](https://www.instagram.com/hamzakhan4104/) | [![hamza-khan-3a2b0024a](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhamza-khan-3a2b0024a%2F&subtitle=@Hamza+Khan&size=square)](https://www.linkedin.com/in/hamza-khan-3a2b0024a/) |
 
 
