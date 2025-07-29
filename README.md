@@ -62,7 +62,7 @@ Combining my web development background with emerging data science skills to bui
       <img src="https://portfolio-one-black-17.vercel.app/sktrading.png" width="250" alt="SK Tradings" />
       <br />
       <strong style="font-size: 1.1em;">SK Tradings</strong><br />
-      <span style="color: #aaa;">Professional metal scrap trading website</span><br />
+      <span style="color: #aaa;">Company Landing Website for their Dismentling Joint Product</span><br />
       <div style="margin-top: 10px;">
         <img src="https://skillicons.dev/icons?i=react,tailwind" height="20" alt="tech stack" />
       </div>
