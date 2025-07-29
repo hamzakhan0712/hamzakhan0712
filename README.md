@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  Full-Stack Developer | DevOps 
+  Python Software Developer
 </p>
 
 <div align="center">
@@ -30,9 +30,19 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I’m a full-stack developer specializing in Django, Spring Boot, and modern web development — crafting robust backend systems and seamless user experiences.Passionate about creating exceptional digital experiences through innovative code and thoughtful design.I'm a skilled full-stack developer with strong expertise in web development, mobile application development, and DevOps. I have a solid foundation in programming languages such as Python, Java, and JavaScript, and work extensively across multiple layers of application architecture.
+I'm a Python Software Developer with 2+ years of experience in full-stack web development, currently transitioning into Data Science. My expertise in building scalable web applications (Django, Spring Boot, React) has strengthened my problem-solving skills and understanding of software architecture—valuable assets for data-driven development.
 
-My technical stack includes frameworks like Django, Spring Boot, Kotlin, React, and Next.js. I specialize in building scalable, maintainable, and high-performance applications with modern development practices—delivering secure and seamless user experiences across platforms.
+Now expanding my focus to:
+
+Machine Learning & Statistical Modeling (Scikit-learn, TensorFlow)
+
+Data Analysis & Visualization (Pandas, NumPy, Matplotlib/Seaborn)
+
+Big Data & Cloud Platforms (AWS, GCP)
+
+ML Deployment & MLOps
+
+Combining my web development background with emerging data science skills to build intelligent systems.
 <br>
 
 <div align="center">
