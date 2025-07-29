@@ -223,27 +223,9 @@ Combining my web development background with emerging data science skills to bui
         </a>
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <a href="https://nextjs.org/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-          <br>Next.js
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
         <a href="https://tailwindcss.com/" style="color: white; text-decoration: none;">
           <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
           <br>Tailwind
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://www.typescriptlang.org/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-          <br>TypeScript
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-          <br>JavaScript
         </a>
       </td>
       <td align="center" style="border: none; padding: 15px;">
@@ -266,27 +248,9 @@ Combining my web development background with emerging data science skills to bui
     </tr>
     <tr>
       <td align="center" style="border: none; padding: 15px;">
-        <a href="https://nodejs.org/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-          <br>Node.js
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.python.org/" style="color: white; text-decoration: none;">
           <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
           <br>Python
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://www.java.com/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-          <br>Java
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://spring.io/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/>
-          <br>Spring Boot
         </a>
       </td>
       <td align="center" style="border: none; padding: 15px;">
@@ -301,18 +265,6 @@ Combining my web development background with emerging data science skills to bui
           <br>Flask
         </a>
       </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://kotlinlang.org/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin"/>
-          <br>Kotlin
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://expressjs.com/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
-          <br>Express
-        </a>
-      </td>
     </tr>
     <tr>
     <td colspan="8" align="center" style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
@@ -324,24 +276,6 @@ Combining my web development background with emerging data science skills to bui
         <a href="https://www.postgresql.org/" style="color: white; text-decoration: none;">
           <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/>
           <br>PostgreSQL
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://www.mongodb.com/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-          <br>MongoDB
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://firebase.google.com/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-          <br>Firebase
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://www.docker.com/" style="color: white; text-decoration: none;">
-          <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
-          <br>Docker
         </a>
       </td>
       <td align="center" style="border: none; padding: 15px;">
