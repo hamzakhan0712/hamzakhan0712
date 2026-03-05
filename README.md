@@ -16,9 +16,9 @@ Currently completing a B.Tech in Computer Science (Data Science) at University o
 
 **Languages** — Python, SQL, JavaScript  
 **Backend** — Django, Flask, REST APIs, FastAPI, WebSockets, Django Channels  
-**Databases** — PostgreSQL, MySQL, SQLite, Elasticsearch  
+**Databases** — PostgreSQL, MySQL, SQLite  
 **Frontend** — React, Next.js, Tailwind CSS (supporting role — backend is my focus)  
-**DevOps / Cloud** — Docker, AWS (EC2, S3, RDS), GCP, Render, DigitalOcean, Linux  
+**DevOps / Cloud** — GCP, Render, DigitalOcean, 
 **Tools** — Git, Postman, VS Code
 
 ---
