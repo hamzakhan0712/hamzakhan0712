@@ -1,24 +1,22 @@
 # Hamza Khan — Backend Developer
-
 **Python · Django · REST APIs · PostgreSQL · WebSockets**
-
 Mumbai, India · [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com) · [Portfolio](https://portfolio-vert-six-26.vercel.app) · [LinkedIn](https://www.linkedin.com/in/hamza-khan-3a2b0024a/)
 
 ---
 
-I build backend systems that run in production. My work focuses on Django-based REST APIs, real-time WebSocket services, and PostgreSQL-backed architectures. Most of what I've built has been for actual clients — not just portfolio pieces.
+I build backend systems that run in production. With 4+ years of freelance experience, my work focuses on Django-based REST APIs, real-time WebSocket services, and PostgreSQL-backed architectures. Most of what I've built has been for actual clients — not just portfolio pieces.
 
-Currently completing a B.Tech in Computer Science (Data Science) at University of Mumbai (2026).
+Currently completing a B.Tech in Computer Science (Data Science) at University of Mumbai — graduating July 2026.
 
 ---
 
 ## What I Work With
 
 **Languages** — Python, SQL, JavaScript  
-**Backend** — Django, Flask, REST APIs, FastAPI, WebSockets, Django Channels  
-**Databases** — PostgreSQL, MySQL, SQLite  
+**Backend** — Django, Django Channels, Flask, REST APIs, WebSockets  
+**Databases** — PostgreSQL, MySQL, SQLite, Elasticsearch  
 **Frontend** — React, Next.js, Tailwind CSS (supporting role — backend is my focus)  
-**DevOps / Cloud** — GCP, Render, DigitalOcean, 
+**DevOps / Cloud** — Docker, AWS (EC2, S3), GCP, DigitalOcean, Render  
 **Tools** — Git, Postman, VS Code
 
 ---
@@ -26,7 +24,7 @@ Currently completing a B.Tech in Computer Science (Data Science) at University o
 ## Projects
 
 ### [InitCore CRM — Call Center Platform](https://github.com/hamzakhan0712/InitCore-CRM-CallCenter)
-Enterprise CRM built for a real call center operation. Handles lead management, agent tracking, payment records, and PDF invoice generation. Real-time agent monitoring via Django Channels + WebSockets. Processing 1,000+ transactions daily across concurrent users.  
+Enterprise CRM built for a real call center operation. Handles lead management, agent tracking, payment records, and PDF invoice generation. Real-time agent monitoring via Django Channels + WebSockets. Processing 1,000+ transactions daily across 50+ concurrent users.  
 `Django` `PostgreSQL` `Django Channels` `WebSockets` `Python`
 
 ---
@@ -38,8 +36,8 @@ Backend for a live property listing marketplace. Built the REST API layer, searc
 ---
 
 ### [FlaskSearch API](https://github.com/hamzakhan0712/FlaskSearch-API)
-RESTful search service using Flask and Elasticsearch. Supports full-text search, pagination, and filtering over large document datasets. Designed to be production-deployable as a standalone microservice.  
-`Flask` `Elasticsearch` `Python` `REST API`
+RESTful search service using Flask and Elasticsearch. Supports full-text search, pagination, and filtering over large document datasets (Shakespeare corpus). Designed as a production-deployable standalone microservice with Docker.  
+`Flask` `Elasticsearch` `Python` `REST API` `Docker`
 
 ---
 
@@ -61,13 +59,21 @@ Production website for an import/export business. Next.js frontend with Google S
 
 ---
 
+## Currently Building
+Learning Apache Airflow and data pipeline design — bridging backend experience toward data engineering. Progress on GitHub.
+
+---
+
 ## Achievements
 
 **Smart India Hackathon 2025 — Grand Finalist**  
-Selected from 50,000+ teams. Built a working solution under a 36-hour timeline as part of a national-level government initiative.
+Selected from 50,000+ teams nationwide. Built a working solution under a 36-hour timeline as part of a national-level Government of India initiative (BPUT, Rourkela).
 
 **SCOE Avishkar 2024 — 2nd Place**  
-University engineering competition. Recognized for technical execution and project viability.
+University of Mumbai engineering competition. Recognized for technical execution and project viability.
+
+**CodeCrafters 2.0 Hackathon — University of Mumbai, March 2025**  
+Designed and built a digital asset management solution for financial instruments using Spring Boot and React in a 48-hour sprint.
 
 ---
 
@@ -77,4 +83,4 @@ I started freelancing in 2021 while studying. Most of my projects were for clien
 
 ---
 
-*Open to backend-focused roles in Mumbai or remote. Reach me at [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com)*
+*Currently seeking backend developer roles in India or remote — graduating July 2026. Reach me at [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com)*
