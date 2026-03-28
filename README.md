@@ -1,4 +1,4 @@
-# Hamza Khan — Backend Developer
+# Hamza Khan - Backend Developer
 
 **Python · Django · REST APIs · PostgreSQL · WebSockets**
 
@@ -8,30 +8,30 @@ Mumbai, India · [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com) · [P
 
 I build backend systems that run in production. With 4+ years of freelance experience, my work focuses on Django-based REST APIs, real-time WebSocket services, and PostgreSQL-backed architectures. Most of what I've built has been for clients.
 
-Currently completing a B.Tech in Computer Science (Data Science) at University of Mumbai — graduating July 2026.
+Currently completing a B.Tech in Computer Science (Data Science) at University of Mumbai - graduating July 2026.
 
 ---
 
 ## What I Work With
 
-**Languages** — Python, SQL
-**Backend** — Django, Flask, REST APIs, FASTAPI
-**Databases** — PostgreSQL, MySQL, SQLite,
-**Frontend** — React, Next.js, Vite, AntDesign, Shadcn, Tailwind CSS (supporting role — backend is my focus)  
-**DevOps / Cloud** —Hostinger, DigitalOcean, Render, Vercel  
-**Tools** — Git, Postman
+**Languages** - Python, SQL
+**Backend** - Django, Flask, REST APIs, FASTAPI
+**Databases** - PostgreSQL, MySQL, SQLite,
+**Frontend** - React, Next.js, Vite, AntDesign, Shadcn, Tailwind CSS (supporting role - backend is my focus)  
+**DevOps / Cloud** -Hostinger, DigitalOcean, Render, Vercel  
+**Tools** - Git, Postman
 
 ---
 
 ## Projects
 
-### [InitCore CRM — Call Center Platform](https://github.com/hamzakhan0712/InitCore-CRM-CallCenter)
+### [InitCore CRM - Call Center Platform](https://github.com/hamzakhan0712/InitCore-CRM-CallCenter)
 Enterprise CRM built for a call center operation. Handles lead management, agent tracking, payment records, and PDF invoice generation. Real-time agent monitoring via Django Channels + WebSockets.
 `Django` `PostgreSQL` `Django Channels` `WebSockets` `Python`
 
 ---
 
-### [Key2YourHome — Real Estate Platform](https://github.com/hamzakhan0712/Key2YourHome-RealEstate)
+### [Key2YourHome - Real Estate Platform](https://github.com/hamzakhan0712/Key2YourHome-RealEstate)
 Backend for a live property listing marketplace. Built the REST API layer, search/filter system, and database schema for 500+ active listings.  
 `Django` `PostgreSQL` `REST API` `Python` · [Live](https://www.key2yourhome.co.in)
 
@@ -43,13 +43,13 @@ RESTful search service using Flask and Elasticsearch. Supports full-text search,
 
 ---
 
-### [TariqPerfumes — E-Commerce Backend](https://github.com/hamzakhan0712/TariqPerfumes-Ecommerce)
+### [TariqPerfumes - E-Commerce Backend](https://github.com/hamzakhan0712/TariqPerfumes-Ecommerce)
 Full e-commerce backend for a retail/wholesale perfume business. Includes product catalog, shopping cart, order management, and an AdminLTE-based dashboard for store operations.  
 `Django` `PostgreSQL` `JavaScript` `Python`
 
 ---
 
-### [FaceTrack — Attendance System](https://github.com/hamzakhan0712/FaceTrack-Attendance)
+### [FaceTrack - Attendance System](https://github.com/hamzakhan0712/FaceTrack-Attendance)
 Django backend for an Android attendance app with facial recognition. Handles data sync from on-device Python ML models, stores attendance records, and exposes APIs for the mobile client. Built for student attendance management in institutional settings.  
 `Django` `Python` `TensorFlow` `Kotlin`
 
@@ -57,18 +57,18 @@ Django backend for an Android attendance app with facial recognition. Handles da
 
 ## Achievements
 
-**Smart India Hackathon 2025 — Grand Finalist**  
+**Smart India Hackathon 2025 - Grand Finalist**  
 Selected from 50,000+ teams nationwide. Built a working solution under a 36-hour timeline as part of a national-level Government of India initiative (BPUT, Rourkela).
 
-**SCOE Avishkar 2024 — 2nd Place**  
+**SCOE Avishkar 2024 - 2nd Place**  
 University of Mumbai engineering competition. Recognized for technical execution and project viability.
 
 ---
 
 ## Background
 
-I started freelancing in 2021 while studying. Most of my projects were for clients who needed working systems, not demos — which meant dealing with constraints: deployment on servers, handling user traffic, and maintaining code other people depend on. That experience has shaped how I approach backend work.
+I started freelancing in 2021 while studying. Most of my projects were for clients who needed working systems, not demos - which meant dealing with constraints: deployment on servers, handling user traffic, and maintaining code other people depend on. That experience has shaped how I approach backend work.
 
 ---
 
-*Currently seeking backend developer roles in India or remote — graduating July 2026. Reach me at [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com)*
+*Currently seeking backend developer roles in India or remote - graduating July 2026. Reach me at [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com)*
