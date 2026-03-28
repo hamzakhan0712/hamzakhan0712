@@ -1,5 +1,7 @@
 # Hamza Khan — Backend Developer
+
 **Python · Django · REST APIs · PostgreSQL · WebSockets**
+
 Mumbai, India · [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com) · [Portfolio](https://portfolio-vert-six-26.vercel.app) · [LinkedIn](https://www.linkedin.com/in/hamza-khan-3a2b0024a/)
 
 ---
@@ -48,19 +50,8 @@ Full e-commerce backend for a retail/wholesale perfume business. Includes produc
 ---
 
 ### [FaceTrack — Attendance System](https://github.com/hamzakhan0712/FaceTrack-Attendance)
-Android attendance app with facial recognition. Python ML models run on-device for offline processing, synced to a Django backend. Built for student attendance management in institutional settings.  
-`Kotlin` `Django` `TensorFlow` `Python`
-
----
-
-### [SK Tradings](https://github.com/hamzakhan0712/SKTrading-Website)
-Production website for an import/export business. Next.js frontend with Google Sheets integration, reCAPTCHA, and automated sitemap generation.  
-`Next.js` `JavaScript` · [Live](https://www.sktradings.in)
-
----
-
-## Currently Building
-Learning Apache Airflow and data pipeline design — bridging backend experience toward data engineering. Progress on GitHub.
+Django backend for an Android attendance app with facial recognition. Handles data sync from on-device Python ML models, stores attendance records, and exposes APIs for the mobile client. Built for student attendance management in institutional settings.  
+`Django` `Python` `TensorFlow` `Kotlin`
 
 ---
 
@@ -71,9 +62,6 @@ Selected from 50,000+ teams nationwide. Built a working solution under a 36-hour
 
 **SCOE Avishkar 2024 — 2nd Place**  
 University of Mumbai engineering competition. Recognized for technical execution and project viability.
-
-**CodeCrafters 2.0 Hackathon — University of Mumbai, March 2025**  
-Designed and built a digital asset management solution for financial instruments using Spring Boot and React in a 48-hour sprint.
 
 ---
 
