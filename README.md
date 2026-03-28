@@ -6,7 +6,7 @@ Mumbai, India · [hamza81khan81@gmail.com](mailto:hamza81khan81@gmail.com) · [P
 
 ---
 
-I build backend systems that run in production. With 4+ years of freelance experience, my work focuses on Django-based REST APIs, real-time WebSocket services, and PostgreSQL-backed architectures. Most of what I've built has been for actual clients — not just portfolio pieces.
+I build backend systems that run in production. With 4+ years of freelance experience, my work focuses on Django-based REST APIs, real-time WebSocket services, and PostgreSQL-backed architectures. Most of what I've built has been for clients.
 
 Currently completing a B.Tech in Computer Science (Data Science) at University of Mumbai — graduating July 2026.
 
@@ -14,25 +14,25 @@ Currently completing a B.Tech in Computer Science (Data Science) at University o
 
 ## What I Work With
 
-**Languages** — Python, SQL, JavaScript  
-**Backend** — Django, Django Channels, Flask, REST APIs, WebSockets  
-**Databases** — PostgreSQL, MySQL, SQLite, Elasticsearch  
-**Frontend** — React, Next.js, Tailwind CSS (supporting role — backend is my focus)  
-**DevOps / Cloud** — Docker, AWS (EC2, S3), GCP, DigitalOcean, Render  
-**Tools** — Git, Postman, VS Code
+**Languages** — Python, SQL
+**Backend** — Django, Flask, REST APIs, FASTAPI
+**Databases** — PostgreSQL, MySQL, SQLite,
+**Frontend** — React, Next.js, Vite, AntDesign, Shadcn, Tailwind CSS (supporting role — backend is my focus)  
+**DevOps / Cloud** —Hostinger, DigitalOcean, Render, Vercel  
+**Tools** — Git, Postman
 
 ---
 
 ## Projects
 
 ### [InitCore CRM — Call Center Platform](https://github.com/hamzakhan0712/InitCore-CRM-CallCenter)
-Enterprise CRM built for a real call center operation. Handles lead management, agent tracking, payment records, and PDF invoice generation. Real-time agent monitoring via Django Channels + WebSockets. Processing 1,000+ transactions daily across 50+ concurrent users.  
+Enterprise CRM built for a call center operation. Handles lead management, agent tracking, payment records, and PDF invoice generation. Real-time agent monitoring via Django Channels + WebSockets.
 `Django` `PostgreSQL` `Django Channels` `WebSockets` `Python`
 
 ---
 
 ### [Key2YourHome — Real Estate Platform](https://github.com/hamzakhan0712/Key2YourHome-RealEstate)
-Backend for a live property listing marketplace. Built the REST API layer, search/filter system, and database schema for 500+ active listings. Query optimization brought API response times down by 45%.  
+Backend for a live property listing marketplace. Built the REST API layer, search/filter system, and database schema for 500+ active listings.  
 `Django` `PostgreSQL` `REST API` `Python` · [Live](https://www.key2yourhome.co.in)
 
 ---
@@ -67,7 +67,7 @@ University of Mumbai engineering competition. Recognized for technical execution
 
 ## Background
 
-I started freelancing in 2021 while studying. Most of my projects were for clients who needed working systems, not demos — which meant dealing with real constraints: deployment on actual servers, handling real user traffic, and maintaining code other people depend on. That experience has shaped how I approach backend work.
+I started freelancing in 2021 while studying. Most of my projects were for clients who needed working systems, not demos — which meant dealing with constraints: deployment on servers, handling user traffic, and maintaining code other people depend on. That experience has shaped how I approach backend work.
 
 ---
 
