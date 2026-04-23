@@ -1,6 +1,6 @@
 # Hamza Khan — Data Engineer in progress
 
-**Python · SQL · PostgreSQL · Pipeline Architecture · MSc Data Engineering @ Australia 2026**
+**Python · SQL · PostgreSQL · Pipeline Architecture · Bachelor of Computer Science and Engineering (Data Science)**
 
 Mumbai, India · hamza81khan81@gmail.com · [LinkedIn](https://www.linkedin.com/in/hamza-khan-3a2b0024a/) · [Portfolio](https://portfolio-vert-six-26.vercel.app)
 
