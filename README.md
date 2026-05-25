@@ -29,7 +29,7 @@ Currently completing a B.E. in Computer Science and Engineering (Data Science) a
 Django and PostgreSQL CRM for call center operations. Multi-role access for agents, supervisors, and administrators. Modules for lead management, call logging, payment tracking, attendance, and PDF invoice generation. Real-time agent monitoring built with Django Channels and WebSockets.
 `Django` `Django Channels` `PostgreSQL` `WebSockets` `Python` `ReportLab`
 
-### [Key2YourHome — Real Estate Marketplace](https://www.key2yourhome.co.in)
+### [Key2YourHome — Real Estate Marketplace](https://www.key2yourhome.net)
 Live property listing platform built with Django 5.2 and PostgreSQL. OAuth-based authentication, Grappelli admin interface, property search and filtering, Tailwind CSS frontend.
 `Django 5.2` `PostgreSQL` `OAuth` `Grappelli` `Tailwind CSS` · [Live](https://www.key2yourhome.co.in)
 
